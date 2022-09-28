@@ -1,0 +1,21 @@
+[
+  {
+    "id": "e1",
+    "title": "Grocery",
+    "amount": 94.12,
+    "date": "14/02/21"
+  },
+  { "id": "e2", "title": "New TV", "amount": 799.49, "date": "14/05/20" },
+  {
+    "id": "e3",
+    "title": "Car Insurance",
+    "amount": 294.67,
+    "date": "02/02/20"
+  },
+  {
+    "id": "e4",
+    "title": "New Desk (Wooden)",
+    "amount": 450,
+    "date": "03/04/21"
+  }
+]
